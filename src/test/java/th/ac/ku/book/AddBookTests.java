@@ -1,3 +1,4 @@
+// Pecthgamon Sangnual 6410406819
 package th.ac.ku.book;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -18,7 +19,7 @@ import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-public class Pecthgamon_6410406819_AddBookTests {
+public class AddBookTests {
 
     @LocalServerPort
     private Integer port;
